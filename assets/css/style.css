@@ -1,0 +1,13 @@
+#box{
+    row-gap: 1rem;
+}
+
+.card{
+    width: calc(100% / 3 - 3rem);
+    margin: 0 1rem;
+}
+
+img{
+    height: 100%;   
+    object-fit: cover;
+}
